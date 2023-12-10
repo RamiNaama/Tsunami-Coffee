@@ -58,6 +58,7 @@ li {
 .supporting img {
   height: 10%;
   width: 10%;
+  margin-right: 5%;
 }
 
 .rating {
@@ -70,7 +71,9 @@ li {
   align-items: center;
 }
 
-.rating h1 {}
+.rating h1 {
+  font-size: 2.5rem;
+}
 
 .gallery img {
   display: block;
@@ -88,7 +91,9 @@ li {
   margin-bottom: 7rem;
 }
 
-.location img {}
+.location img {
+  width: 100%;
+}
 
 footer {
   background-color: OrangeRed;
